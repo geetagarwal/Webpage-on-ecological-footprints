@@ -1,0 +1,20 @@
+ 
+Footprint Calculator 
+
+How much land area does it take to support your lifestyle? Take this quiz to find out your Ecological Footprint, discover your biggest areas of resource consumption, and learn what you can do to tread more lightly on the earth.
+
+ECOLOGICAL FOOTPRINT 
+
+The ecological footprint is a measure of human demand on the Earth's ecosystems. It is a standardized measure of demand for natural capital that may be contrasted with the planet's ecological capacity to regenerate.[1] It represents the amount of biologically productive land and sea area necessary to supply the resources a human population consumes, and to assimilate associated waste. Using this assessment, it is possible to estimate how much of the Earth (or how many planet Earths) it would take to support humanity if everybody followed a given lifestyle. For 2007, humanity's total ecological footprint was estimated at 1.5 planet Earths; that is, humanity uses ecological services 1.5 times as quickly as Earth can renew them.[2] Every year, this number is recalculated to incorporate the three-year lag due to the time it takes for the UN to collect and publish statistics and relevant research.
+
+Although the term ecological footprint is widely used and well known,[3] it goes beyond the metaphor. It represents an accounting system for biocapacity that tracks how much biocapacity there is, and how much biocapacity people use. Calculation methods have converged thanks to standards released in 2006 and updated in 2009
+
+METHODOLOGY
+
+The ecological footprint accounting method at the national level is described in the l Footprint Atlas 2010[15] or in greater detail in the Calculation Methodology for the National Footprint Accounts.[16] The National Accounts Review Committee has also published a research agenda on how the method will be improved.[17]
+
+There have been differences in the methodology used by various ecological footprint studies. Examples include how sea area should be counted, how to account for fossil fuels, how to account for nuclear power (many studies[weasel words] simply consider it to have the same ecological footprint as fossil fuels),[citation needed] which data sources used, when average global numbers or local numbers should be used when looking at a specific area, how space for biodiversity should be included, and how imports/exports should be accounted for. However, as new footprint standards emerge, the calculation methodologies are converging.[citation needed]
+
+In 2003, Jason Venetoulis, Carl Mas, Christopher Gaudet, Dahlia Chazan, and John Talberth developed Footprint 2., which offers a series of theoretical and methodological improvements to the standard footprint approach. The four primary improvements were that they included the entire surface of the Earth in biocapacity estimates, allocated space for other (i.e., non-human) species, updated the basis of equivalence factors from agricultural land to net primary productivity (NPP), and refined the carbon component of the footprint based on the latest global carbon models.[18][19]
+
+ 

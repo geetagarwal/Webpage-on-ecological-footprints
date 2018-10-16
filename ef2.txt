@@ -1,0 +1,64 @@
+Ecological footprinting - methods and limitations 
+
+The ecological footprint is a measure of our resource use, and indicates the extent to which we are overshooting the available biocapacity of the earth. If you total up all the biocapacity and divide it by the global population, you end up with a fair share of approximately 1.8 global hectares per person. Citizens in Asia generally consume so many resources that, if everyone were to live like us, we'd need three times the biocapacity of the earth to support us.
+
+Biocapacity is divided into six main land types:
+?Cropland - subdivided into primary and marginal land (e.g. wheat and olives), measured in tonnes per hectare per year of crop that you can harvest;
+?Pasture - tonnes per hectare per year of meat/dairy, though the total footprint of the livestock will take into account the cropland and fishieries needed for animal feed;
+?Forestry - metres cubed per hectare per year, there is no difference between natural or managed land;
+?Fisheries - the maximum sustainably caught yield in tonnes per hectare per year;
+?Carbon - the area of forestry required to sequester the tonnage of carbon dioxide, including nuclear which is considered to be equivalent to fossil fuels;
+?Build up land - considered to be replacing primary cropland, though this assumption is obviously shaky, e.g. think of Dubai or Tibet!
+
+The ecological footprint is measured in global hectares, an indication of the proportion of the earth's surface required to support a particular activity. This unit takes into account the different biocapacities of each land type, and for each country/area. If the footprint were just measured in hectares, it would be a bit meaningless; if I said "I need 2.4 hectares to support me", would I mean 2.4 hectares of UK forestry or Chinese cropland? The biocapacity of each is very different. Global hectares factor in different land types and locations, and average our their biocapacity. So one global hectare represents the average biocapacity of all hectares on earth. Saying "I need 2.4 global hectares to support me" allows you to translate that into proportions of each land type, and conversely to convert your different land type dependencies into a single comparable figure.
+
+Biocapacity and ecological footprints are calculated as follows:
+
+
+
+ 
+First, you calculate the yield factor for a particular type of land for a particular country (e.g. cropland in the UK, or forestry in Japan). This shows the relative productivity of a particular bit of land, so for example you can determine that cropland in the UK is x times as productive as cropland in Tibet.
+ 
+
+
+ 
+Next, you need to calculate the biocapacity of that bit of land. Multiply the area (in hectares) by the yield factor, and by the equivalence factor. This latter factor represents the relative productivity of a particular type of land (e.g. cropland) to the world average productivity of all land. So you end up with an indication of the biocapacity that accounts for the area of land, the type of land, and the geographical location of the land.
+ 
+
+
+ 
+Finally, you can calculate the ecological footprint of a particular nation / community / product. You multiply the yield and equivalence factors by the ratio of tonnage to yield for each type of land being used. The tonnage is the mass of products being consumed, whilst the yield is the number of tonnes per hectare that you would normally get from that country's land type. This all cancels out into a figure in global hectares.
+
+You can then compare the global hectares of biocapacity (supply) to the global hectares of our footprint (demand), and estimate the extent of our ecological overshoot.
+ 
+ 
+Limitations of eco-footprinting
+
+The ecological footprint is one indication of unsustainability. Because of the limitations below, you can say that "x is unsustainable because it's ecological footprint exceeds the fair share" but you cannot say "x is sustainable because it fits within the fair share"; you would then need to account for pollution, water use, toxicity, health, happiness, and so on.
+
+Eco-footprints don't account for:
+?Any economic, political or cultural factors such as well-being;
+
+
+?78% of the surface of the earth, which is deemed to lack any biocapacity (deep oceans, deserts, mountains);
+
+
+?Water and waste, except insofar as they affect the biocapacity of a region and so show up by those proxies;
+
+
+?Non-renewable resources and their depletion, only renewable resources in the biosphere. The exceptions are where they affect the biosphere, for example pollution from mineral mining reducing the biocapacity of a fishery;
+
+
+?Biodiversity, toxicity, pollution and other traditional environmental concerns;
+
+
+?Unsustainable management of the biosphere, for example clear-cutting a rainforest for agriculture would seem to increase biocapacity because the yield factor of cropland is higher than that of forestry;
+
+
+?Related to the above point, destruction of biocapacity by long-term processes such as climate change;
+
+
+?The true use and exchange value of different land types, for example forestry doesn't include the pharmaceutical potential of the species that live there;
+
+
+?Methane and other greenhouse gases, only carbon dioxide;
